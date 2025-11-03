@@ -3,6 +3,8 @@
 ---
 
 [[Who I am\|Who I am]]. This is my [[digital garden\|digital garden]].
+
+#this-is-a-tag #this-is-another-tag
 # Explorations, obsessions and dalliances
 - Experience of being arrested (possibly needs clearing with a lawyer 🙈)
 - "[The open internet is dead](https://pca.st/episode/ffc7696f-74fe-45ea-8055-6460693953cf)" - I have an audio file with ramblings about this
