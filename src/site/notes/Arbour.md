@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arbour/","tags":["gardenEntry"],"created":"2025-10-26T21:28:22.773+00:00"}
+{"dg-publish":true,"permalink":"/arbour/","tags":["abandoned","about-me","abuse","gardenEntry"],"created":"2025-10-26T21:28:22.773+00:00"}
 ---
 
 [[Who I am\|Who I am]]. This is my [[digital garden\|digital garden]].
