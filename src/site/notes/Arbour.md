@@ -4,14 +4,8 @@
 
 [[I am Robin\|I am Robin]].
 
-This is my [[On digital gardens\|On digital gardens]]. It's currently an experiment, and it's all [Tris's fault](https://decapsulate.com/episodes/3/).
-# Paths
-- 
+This is my [[On digital gardens\|digital garden]]. It's currently an experiment, and it's all [Tris's fault](https://decapsulate.com/episodes/3/).
+# Zones
+- [[On digital gardens\|On digital gardens]]
 - [[Thoughts from my job at ONT\|Thoughts from my job at ONT]]
-- [[Explorations, obsessions and dalliances\|Explorations, obsessions and dalliances]]
-## Blogging ideas
-
-## LLMs are not junior developers
-Talking to an LLM is more like talking to someone completely new in your team every time you have a conversation.
-- Huge incentive to have really clear onboarding documentation
-- Working with an LLM is like working with a contractor
+- [[Obsessions and dalliances\|Obsessions and dalliances]]
