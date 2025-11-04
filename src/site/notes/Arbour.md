@@ -7,5 +7,5 @@
 This is my [[On digital gardens\|digital garden]]. It's currently an experiment, and it's all [Tris's fault](https://decapsulate.com/episodes/3/).
 # Zones
 - [[On digital gardens\|On digital gardens]]
-- [[Thoughts from my job at ONT\|Thoughts from my job at ONT]]
+- [[Thoughts I'm paid for\|Thoughts I'm paid for]]
 - [[Obsessions and dalliances\|Obsessions and dalliances]]
