@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-momentous-implications-of-zohran-mamdani-s-win/","created":"2025-11-05T02:59:36.607+00:00","updated":"2025-11-05T03:43:54.661+00:00"}
+{"dg-publish":true,"permalink":"/the-momentous-implications-of-zohran-mamdani-s-win/","created":"2025-11-05T02:59:36.607+00:00","updated":"2025-11-05T03:48:42.280+00:00"}
 ---
 
 As I write this, 86% of the vote in the New York mayoral election has been counted. There's now no doubt - every sensible expert has long since resoundingly called the race for Zohran Mamdani.
@@ -10,7 +10,7 @@ Zohran Mamdani has achieved something absolutely incredible. To become mayor, he
 
 He deliberately championed diversity and leaned into his New York muslim identity, at a time when islamophobia is at an all-time high. He unapologetically called out the Gaza genocide, survived Israel's significant political cloud,Israel's sig while skilfully turning the "jihadist" attacks back on his attackers. He subverted the relentless "centrist" and zionist bias of the media giants.
 
-He strongly defended himself and New York against Trump's direct threats. He defended himself against the Democratic party's brazen opposition - Chuck Schumer will walk away from this election significantly weaker.
+He strongly defended himself and New York against Trump's direct threats. He's a proud Democratic Socialist, brushing off searing "communist" attacks which have politically destroyed many before him. He defended himself against the Democratic party's brazen opposition - Chuck Schumer will walk away from this election significantly weaker.
 
 Zohran provides the left with authoritative lessons in political strategy, and all the most promising leftist rising stars have been taking many leaves out of his playbook:
 
