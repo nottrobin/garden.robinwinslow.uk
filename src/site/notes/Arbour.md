@@ -15,7 +15,7 @@ These represent overall thematic areas in my garden. Why not wander in and explo
 - [[Thoughts I'm paid to have\|Thoughts I'm paid to have]]: Thoughts around work
 # What I've been working on
 Notes I've updated most recently:
-- [[The momentous implications of Zohran Mamdani's win\|The momentous implications of Zohran Mamdani's win]]: updated at 04:34 on 5 November 2025
+- [[The momentous implications of Zohran Mamdani's win\|The momentous implications of Zohran Mamdani's win]]: updated at 04:42 on 5 November 2025
 - [[Maps of me\|Maps of me]]: updated at 04:15 on 5 November 2025
 - [[Obsessions and dalliances\|Obsessions and dalliances]]: updated at 02:59 on 5 November 2025
 - [[Thoughts I'm paid to have\|Thoughts I'm paid to have]]: updated at 02:52 on 5 November 2025

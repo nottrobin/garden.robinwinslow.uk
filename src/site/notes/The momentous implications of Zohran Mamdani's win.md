@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-momentous-implications-of-zohran-mamdani-s-win/","tags":["showcase"],"created":"2025-11-05T02:59:36.607+00:00","updated":"2025-11-05T04:34:39.807+00:00"}
+{"dg-publish":true,"permalink":"/the-momentous-implications-of-zohran-mamdani-s-win/","tags":["showcase"],"created":"2025-11-05T02:59:36.607+00:00","updated":"2025-11-05T04:42:52.769+00:00"}
 ---
 
 As I write this, 86% of the vote in the New York mayoral election has been counted. There's now no doubt - every sensible expert has long since resoundingly called the race for Zohran Mamdani.
@@ -26,4 +26,4 @@ In the country, and one of the cities, that are global leaders of capitalism, Zo
 
 And for Mamdani to have prevailed so impressively clearly shows that the power of the American nationalism movement is waning.
 
-This is why, for example, Zach Polanski - "[The British Mamdani](https://www.youtube.com/watch?v=S-8W6td3zwg)" - is so clearly styled in his image.
+This is why, for example, Zack Polanski - "[The British Mamdani](https://www.youtube.com/watch?v=S-8W6td3zwg)" - is so clearly styled in his image.
