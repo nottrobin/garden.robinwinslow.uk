@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/management-techniques-for-managing-neurodiverse-teams/","created":"2025-11-04T23:39:35.677+00:00","updated":"2025-11-05T00:21:24.767+00:00"}
+{"dg-publish":true,"permalink":"/management-techniques-for-managing-neurodiverse-teams/","created":"2025-11-04T23:39:35.677+00:00","updated":"2025-11-05T01:42:48.936+00:00"}
 ---
 
 # Support psychological safety
@@ -17,6 +17,8 @@
 - "Names not titles" - don't mention grade
 - Listen - not every conversation is for problem solving
     - "I promise not to interrupt you...."
+
+[[Conflict management techniques\|Conflict management techniques]]
 # Holding tough conversations
 - "I statements" are good
     - Focus on describing your own experience, not other people's
