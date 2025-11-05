@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/arbour/","tags":["gardenEntry"],"created":"2025-10-26T21:28:22.773+00:00","updated":"2025-11-05T04:18:47.939+00:00"}
+{"dg-publish":true,"permalink":"/arbour/","tags":["gardenEntry"],"created":"2025-10-26T21:28:22.773+00:00","updated":"2025-11-05T04:20:42.483+00:00"}
 ---
 
-[[I am Robin\|I am Robin]].
+Hello, [[I am Robin\|I am Robin]].
 
 This is my [[On digital gardens\|digital garden]]. It's currently an experiment, and it's all [Tris's fault](https://decapsulate.com/episodes/3/).
 # Hey look! 👇
