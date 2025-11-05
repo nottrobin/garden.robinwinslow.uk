@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-momentous-implications-of-zohran-mamdani-s-win/","created":"2025-11-05T02:59:36.607+00:00","updated":"2025-11-05T03:48:42.280+00:00"}
+{"dg-publish":true,"permalink":"/the-momentous-implications-of-zohran-mamdani-s-win/","tags":["showcase"],"created":"2025-11-05T02:59:36.607+00:00","updated":"2025-11-05T03:55:11.427+00:00"}
 ---
 
 As I write this, 86% of the vote in the New York mayoral election has been counted. There's now no doubt - every sensible expert has long since resoundingly called the race for Zohran Mamdani.
