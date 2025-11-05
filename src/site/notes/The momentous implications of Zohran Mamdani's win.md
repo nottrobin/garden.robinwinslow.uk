@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-momentous-implications-of-zohran-mamdani-s-win/","tags":["showcase"],"created":"2025-11-05T02:59:36.607+00:00","updated":"2025-11-05T04:33:56.301+00:00"}
+{"dg-publish":true,"permalink":"/the-momentous-implications-of-zohran-mamdani-s-win/","tags":["showcase"],"created":"2025-11-05T02:59:36.607+00:00","updated":"2025-11-05T04:34:39.807+00:00"}
 ---
 
 As I write this, 86% of the vote in the New York mayoral election has been counted. There's now no doubt - every sensible expert has long since resoundingly called the race for Zohran Mamdani.
@@ -8,7 +8,7 @@ This was also mostly a foregone conclusion. Zohran smashed Cuomo in the primary,
 
 Zohran Mamdani has achieved something absolutely incredible. To become mayor, he had to simultaneously defeat Zionists & the Israel lobby; neoliberals & the Democratic National Committee; MAGA & the White House; and the media establishment.
 
-He deliberately championed diversity and leaned into his New York muslim identity, at a time when islamophobia is at an all-time high. He unapologetically called out the Gaza genocide, survived Israel's significant political clout, while skilfully turning the "jihadist" attacks back on his attackers. He subverted the relentless "centrist" and zionist bias of the media giants.
+He deliberately championed diversity and leaned into his New York muslim identity, at a time when islamophobia is at an all-time high. He unapologetically called out the Gaza genocide, survived Israel's significant political clout, while skilfully turning the "jihadist" attacks back on his attackers. He subverted the relentless centrist, establishment and zionist bias of the media giants.
 
 He strongly defended himself and New York against Trump's direct threats. He's a proud Democratic Socialist, brushing off searing "communist" attacks which have politically destroyed many before him. He defended himself against the Democratic party's brazen opposition - Chuck Schumer will walk away from this election significantly weaker.
 
