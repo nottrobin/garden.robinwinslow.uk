@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/the-momentous-implications-of-zohran-mamdani-s-win/","tags":["showcase"],"created":"2025-11-05T02:59:36.607+00:00","updated":"2025-11-05T04:56:33.314+00:00"}
+{"dg-publish":true,"permalink":"/the-momentous-implications-of-zohran-mamdani-s-win/","tags":["showcase"],"created":"2025-11-05T02:59:36.607+00:00","updated":"2025-11-05T09:04:37.536+00:00"}
 ---
 
-As I write this, 86% of the vote in the New York mayoral election has been counted. There's now no doubt - every sensible expert has long since resoundingly called the race for [Zohran Mamdani](https://www.zohranfornyc.com/).
+As I write this at 3am GMT, 86% of the vote in the New York mayoral election has been counted; and every sensible expert has called the race as a resounding win for [Zohran Mamdani](https://www.zohranfornyc.com/).
 
-This was also mostly a foregone conclusion. [Zohran smashed Cuomo](https://theintercept.com/2025/11/04/nyc-mayor-election-results-zohran-mamdani-cuomo/) in the primary, and so his repeat of that performance was expected. Still, Mamdani's win has *huge* implications, across the globe.
+Even though Zohran was expected to repeat his [humiliation of Andrew Cuomo in the primary](https://theintercept.com/2025/11/04/nyc-mayor-election-results-zohran-mamdani-cuomo/), Mamdani's win nonetheless has *huge* implications across the globe.
 
 Zohran Mamdani has achieved something absolutely incredible. To become mayor, he had to simultaneously defeat Zionists & the Israel lobby; neoliberals & the Democratic National Committee; MAGA & the White House; and the media establishment.
 
