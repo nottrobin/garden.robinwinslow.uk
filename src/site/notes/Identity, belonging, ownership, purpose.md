@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/identity-belonging-ownership-purpose/","created":"2025-11-04T16:10:06.504+00:00"}
+{"dg-publish":true,"permalink":"/identity-belonging-ownership-purpose/","created":"2025-11-04T16:10:06.504+00:00","updated":"2025-11-04T22:14:56.765+00:00"}
 ---
 
 - individual Vs social

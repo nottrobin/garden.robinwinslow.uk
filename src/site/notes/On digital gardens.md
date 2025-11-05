@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/on-digital-gardens/","created":"2025-11-03T23:28:32.330+00:00"}
+{"dg-publish":true,"permalink":"/on-digital-gardens/","created":"2025-11-03T23:28:32.330+00:00","updated":"2025-11-04T16:24:08.087+00:00"}
 ---
 
 Because of [Tris](https://decapsulate.com/episodes/3/), I'm experimenting with cultivating a Digital Garden. It might be just the ticket.
