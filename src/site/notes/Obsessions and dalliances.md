@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/obsessions-and-dalliances/","created":"2025-11-04T16:07:28.256+00:00","updated":"2025-11-05T00:47:12.181+00:00"}
+{"dg-publish":true,"permalink":"/obsessions-and-dalliances/","created":"2025-11-04T16:07:28.256+00:00","updated":"2025-11-05T00:51:57.245+00:00"}
 ---
 
-
+Briefly precious avenues of thought. They may become full blog posts, or podcast topics; something else entirely, or, in many cases, very little.
 
 - [[On digital gardens\|On digital gardens]]
 - [[Identity, belonging, ownership, purpose\|Identity, belonging, ownership, purpose]]
