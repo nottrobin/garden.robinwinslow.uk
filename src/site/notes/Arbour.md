@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arbour/","tags":["gardenEntry"],"created":"2025-10-26T21:28:22.773+00:00","updated":"2025-11-05T04:27:15.373+00:00"}
+{"dg-publish":true,"permalink":"/arbour/","tags":["gardenEntry"],"created":"2025-10-26T21:28:22.773+00:00","updated":"2025-11-05T04:28:13.231+00:00"}
 ---
 
 Hello, [[I am Robin\|I am Robin]].
@@ -11,7 +11,7 @@ This is my [[On digital gardens\|digital garden]]. It's currently an experiment,
 { .block-language-dataview}
 # Zones
 These represent overall thematic areas in my garden. Why not wander in and explore?
-- [[Obsessions and dalliances\|Obsessions and dalliances]]: Blogs, podcast topics, other things and nothing
+- [[Obsessions and dalliances\|Obsessions and dalliances]]: Blogs, podcast topics, and sweet nothings
 - [[Thoughts I'm paid to have\|Thoughts I'm paid to have]]: Thoughts around work
 # What I've been working on
 Notes I've updated most recently:
