@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsessions-and-dalliances/","created":"2025-11-04T16:07:28.256+00:00","updated":"2025-11-05T00:53:19.500+00:00"}
+{"dg-publish":true,"permalink":"/obsessions-and-dalliances/","created":"2025-11-04T16:07:28.256+00:00","updated":"2025-11-05T02:52:50.616+00:00"}
 ---
 
 Briefly precious avenues of thought. They may become full blog posts, or podcast topics; something else entirely, or, in many cases, very little.
