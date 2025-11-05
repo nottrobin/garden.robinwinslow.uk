@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/the-momentous-implications-of-zohran-mamdani-s-win/","tags":["showcase"],"created":"2025-11-05T02:59:36.607+00:00","updated":"2025-11-05T04:42:52.769+00:00"}
+{"dg-publish":true,"permalink":"/the-momentous-implications-of-zohran-mamdani-s-win/","tags":["showcase"],"created":"2025-11-05T02:59:36.607+00:00","updated":"2025-11-05T04:46:49.315+00:00"}
 ---
 
-As I write this, 86% of the vote in the New York mayoral election has been counted. There's now no doubt - every sensible expert has long since resoundingly called the race for Zohran Mamdani.
+As I write this, 86% of the vote in the New York mayoral election has been counted. There's now no doubt - every sensible expert has long since resoundingly called the race for [Zohran Mamdani](https://www.zohranfornyc.com/).
 
-This was also mostly a foregone conclusion. Zohran smashed Cuomo in the primary, and so his repeat of that performance was expected. Still, Mamdani's win has *huge* implications, across the globe.
+This was also mostly a foregone conclusion. [Zohran smashed Cuomo](https://theintercept.com/2025/11/04/nyc-mayor-election-results-zohran-mamdani-cuomo/) in the primary, and so his repeat of that performance was expected. Still, Mamdani's win has *huge* implications, across the globe.
 
 Zohran Mamdani has achieved something absolutely incredible. To become mayor, he had to simultaneously defeat Zionists & the Israel lobby; neoliberals & the Democratic National Committee; MAGA & the White House; and the media establishment.
 
@@ -20,10 +20,12 @@ Zohran provides the left with authoritative lessons in political strategy, and a
 
 At the same time, his rise and win illustrates a significant shift in political momentum, within the USA and beyond:
 
-The impact of Mamdani's win on the Gaza genocide could be transformative. It's now clearer than ever that supporting Gaza & opposing Israel is a winning political strategy. It's especially worth remembering that the UN headquarters are in New York, and Mamdani has clearly stated that if Netanyahu steps foot in New York while he is mayor, he will be arrested as a war criminal.
+The impact of Mamdani's win on the Gaza genocide could be transformative. It's now clearer than ever that supporting Gaza & opposing Israel is a winning political strategy. It's especially worth remembering that the UN headquarters are in New York, and Mamdani has [clearly stated](https://www.nytimes.com/2025/09/12/nyregion/mamdani-arrest-netanyahu-nyc-mayor.html) that if Netanyahu steps foot in New York while he is mayor, he will be arrested as a war criminal.
 
 In the country, and one of the cities, that are global leaders of capitalism, Zohran's win shows that free-market capitalism and neoliberal economics have significantly lost their sway.
 
 And for Mamdani to have prevailed so impressively clearly shows that the power of the American nationalism movement is waning.
 
-This is why, for example, Zack Polanski - "[The British Mamdani](https://www.youtube.com/watch?v=S-8W6td3zwg)" - is so clearly styled in his image.
+This is why [Zack Polanski](https://backzack.com/) - "[The British Mamdani](https://www.youtube.com/watch?v=S-8W6td3zwg)" - is so clearly styled in his image.
+
+I'm excited.
