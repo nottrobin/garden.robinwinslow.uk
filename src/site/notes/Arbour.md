@@ -1,24 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/arbour/","tags":["gardenEntry"],"created":"2025-10-26T21:28:22.773+00:00","updated":"2025-11-05T04:28:13.231+00:00"}
+{"dg-publish":true,"permalink":"/arbour/","tags":["gardenEntry"],"created":"2025-10-26T21:28:22.773+00:00","updated":"2025-11-07T21:51:11.896+00:00"}
 ---
 
 Hello, [[I am Robin\|I am Robin]].
 
 This is my [[On digital gardens\|digital garden]]. It's currently an experiment, and it's all [Tris's fault](https://decapsulate.com/episodes/3/).
 # Hey look! 👇
-- [[The momentous implications of Zohran Mamdani's win\|The momentous implications of Zohran Mamdani's win]]
+- 💈 [[The momentous implications of Zohran Mamdani's win\|The momentous implications of Zohran Mamdani's win]] 💈
 
 { .block-language-dataview}
 # Zones
-These represent overall thematic areas in my garden. Why not wander in and explore?
-- [[Obsessions and dalliances\|Obsessions and dalliances]]: Blogs, podcast topics, and sweet nothings
-- [[Thoughts I'm paid to have\|Thoughts I'm paid to have]]: Thoughts around work
+These represent overall thematic areas in my garden. Why not wander around a bit?
+
+| [[Obsessions and dalliances\|Obsessions and dalliances]]<br>Blogs, podcast topics, and sweet nothings | [[Thoughts I'm paid to have\|Thoughts I'm paid to have]]<br>Thoughts around work | [[De capsule\|De capsule]]<br>Explorations prompted by [Decapsulate](https://decapsulate.com) (my podcast with [Tris](https://www.namtao.com/)) |
+| -------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+
 # What I've been working on
 Notes I've updated most recently:
-- [[The momentous implications of Zohran Mamdani's win\|The momentous implications of Zohran Mamdani's win]]: updated at 09:04 on 5 November 2025
-- [[Maps of me\|Maps of me]]: updated at 04:15 on 5 November 2025
-- [[Obsessions and dalliances\|Obsessions and dalliances]]: updated at 02:59 on 5 November 2025
-- [[Thoughts I'm paid to have\|Thoughts I'm paid to have]]: updated at 02:52 on 5 November 2025
-- [[Managing for neurodiversity\|Managing for neurodiversity]]: updated at 01:58 on 5 November 2025
+- [[On creating minimal, lasting conceptual products - like platonic ideals\|On creating minimal, lasting conceptual products - like platonic ideals]]: updated at 11:16 on 8 November 2025
+- [[On digital gardens\|On digital gardens]]: updated at 11:13 on 8 November 2025
+- [[On privilege\|On privilege]]: updated at 10:00 on 7 November 2025
+- [[De capsule\|De capsule]]: updated at 09:53 on 7 November 2025
+- [[Exercises to run with team members\|Exercises to run with team members]]: updated at 11:40 on 5 November 2025
 
 { .block-language-dataview}
