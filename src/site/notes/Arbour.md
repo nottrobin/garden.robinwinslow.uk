@@ -17,10 +17,10 @@ These represent overall thematic areas in my garden. Why not wander around a bit
 
 # What I've been working on
 Notes I've updated most recently:
+- [[Digital gardens - etymology\|Digital gardens - etymology]]: updated at 11:42 on 8 November 2025
+- [[On digital gardens\|On digital gardens]]: updated at 11:32 on 8 November 2025
+- [[Digital gardens - Confluence live docs are transformative\|Digital gardens - Confluence live docs are transformative]]: updated at 11:22 on 8 November 2025
 - [[On creating minimal, lasting conceptual products - like platonic ideals\|On creating minimal, lasting conceptual products - like platonic ideals]]: updated at 11:16 on 8 November 2025
-- [[On digital gardens\|On digital gardens]]: updated at 11:13 on 8 November 2025
 - [[On privilege\|On privilege]]: updated at 10:00 on 7 November 2025
-- [[De capsule\|De capsule]]: updated at 09:53 on 7 November 2025
-- [[Exercises to run with team members\|Exercises to run with team members]]: updated at 11:40 on 5 November 2025
 
 { .block-language-dataview}

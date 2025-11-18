@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/on-digital-gardens/","created":"2025-11-03T23:28:32.330+00:00","updated":"2025-11-08T11:13:55.439+00:00"}
+{"dg-publish":true,"permalink":"/on-digital-gardens/","created":"2025-11-03T23:28:32.330+00:00","updated":"2025-11-08T11:32:04.521+00:00"}
 ---
 
 Because of [Tris](https://decapsulate.com/episodes/3/), I'm experimenting with cultivating a Digital Garden. It might be just the ticket.
 
 # Etymology: Where the "digital garden" term came from
-Maggie Appleton's authoritative "[A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)" highlights two important inflection points in history:
+
+[[Digital gardens - etymology\|Digital gardens - etymology]]
+Maggie Appleton's authoritative  highlights two important inflection points in history:
 - Mark Bernstein’s 1998 "[Hypertext Gardens](http://www.eastgate.com/garden/Enter.html)" essay
 - Mike Caufield's 2015 "The Garden and the Stream: a Technopastoral" [keynote speech](https://www.youtube.com/watch?v=ckv_CjyKyZY) and [essay](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 
@@ -13,7 +15,7 @@ And according to Appleton:
 
 > If anyone should be considered the original source of _digital gardening_, it’s Caufield.
 
-- Tom Critchlow’s 2018 "[Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)"
+-  2018 ""
 
 # What "digital garden" means
 
